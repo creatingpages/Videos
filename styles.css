@@ -26,3 +26,7 @@ img{
         transform: rotate(360deg);
     }
 }
+
+.spin{
+    animation: rotate 1s ease-in-out;
+}
